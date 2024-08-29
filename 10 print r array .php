@@ -20,4 +20,4 @@ var_dump($array);
 
 print "<p>";
 
-print_r("<p><strong><i>By Meylisa eka putry</strong>");
+print_r("<p><strong><i>By Meylisa eka putryy</strong>");
