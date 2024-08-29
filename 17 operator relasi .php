@@ -7,6 +7,7 @@ $b = 2;
 $c = $a > $b;
 echo "$a > $b: $c";
 echo "<hr>";
+echo $var_boolean = true;
 
 // menggunakan operator relasi lebih kecil
 $c = $a < $b;
